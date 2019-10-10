@@ -29,5 +29,5 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return parseFloat('poop');
+  return parseFloat(2.222);
 }
