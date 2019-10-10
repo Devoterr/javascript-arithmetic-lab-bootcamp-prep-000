@@ -3,6 +3,6 @@
 2 * 3.4 // 6.8
 5.0 / 2.5 // 2
 
-function add() {
+function add(a + b) {
   return (1 + 80);
 }
